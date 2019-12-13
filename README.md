@@ -1,7 +1,7 @@
 # VueLearnNotes
 Vue学习笔记
 
-- [01-ES6补充](./01-ES6补充/01-ES6补充)
+- [01-ES6补充](.//01-ES6补充/01-ES6补充.md)
 - [02-HelloVue](./02-HelloVue/02-HelloVue.md )
 - [03-插值操作](./03-插值操作/03-插值操作.md )
 - [04-动态绑定属性](./04-动态绑定属性/04-动态绑定属性.md)
@@ -17,4 +17,3 @@ Vue学习笔记
 - [14-前端模块化](./14-前端模块化/14-前端模块化.md)
 - [15-webpack](./15-webpack/15-webpack.md)
 - [16-vue-cli](./16-vue-cli/16-vue-cli.md)
-
