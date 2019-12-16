@@ -24,7 +24,7 @@ const app = new Vue({
         beginDate: "2006-3",
         price: 128.00,
         count: 1
-      },
+      }
     ]
   },
   computed: {
